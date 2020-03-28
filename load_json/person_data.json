@@ -1,0 +1,31 @@
+[
+  {
+    "name": "padmanbah",
+    "age": "20",
+    "height": "172",
+    "gender": "male",
+    "hail_color": "black"
+  } ,
+  {
+    "name": "padmanbah",
+    "age": "20",
+    "height": "172",
+    "gender": "male",
+    "hail_color": "black"
+  },
+  {
+    "name": "pallavi",
+    "age": "20",
+    "height": "172",
+    "gender": "male",
+    "hail_color": "black"
+  },
+  {
+    "name": "onkar",
+    "age": "20",
+    "height": "172",
+    "gender": "male",
+    "hail_color": "black"
+  }
+
+]
